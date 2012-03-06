@@ -25,6 +25,7 @@ namespace Appccelerate.StateMachine.DebugVisualizer.Test
         [Fact]
         public void ShowsTheItCanBuild()
         {
+            var classname = "Foo";
         }
     }
 }
