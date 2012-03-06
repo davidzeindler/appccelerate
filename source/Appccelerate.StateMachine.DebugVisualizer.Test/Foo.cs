@@ -18,6 +18,8 @@
 
 namespace Appccelerate.StateMachine.DebugVisualizer.Test
 {
+    using System;
+
     using Xunit;
 
     public class Foo
@@ -25,7 +27,6 @@ namespace Appccelerate.StateMachine.DebugVisualizer.Test
         [Fact]
         public void ShowsTheItCanBuild()
         {
-            var classname = "Foo";
         }
     }
 }
